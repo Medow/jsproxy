@@ -19,7 +19,7 @@ jsproxy_config({
       hidden: false,
       lines: {
         // 收费版（高权重）
-        'cdn.testzone.gq': 1,
+        'gateway.gdbypass.host': 1,
 
         // 免费版（低权重，分摊一些成本）
         // 每个账号每天 10 万次免费请求，但有频率限制
@@ -56,7 +56,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<!-- Medow -->',
+  inject_html: '<!-- Medow 2-->',
 
   /**
    * URL 自定义处理（设计中）
