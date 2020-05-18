@@ -56,7 +56,7 @@ jsproxy_config({
   /**
    * 自定义注入页面的 HTML
    */
-  inject_html: '<!-- Medow 2-->',
+  inject_html: '<!-- Medow 3-->',
 
   /**
    * URL 自定义处理（设计中）
